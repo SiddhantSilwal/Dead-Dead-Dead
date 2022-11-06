@@ -1,0 +1,37 @@
+{
+  "name": "dead-dead-dead",
+  "displayName": "Dead Dead Dead",
+  "description": "forbidden for those alive",
+  "version": "0.0.1",
+  "punlisher":"SiddhantSilwal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SiddhantSilwal/Dead-Dead-Dead/"
+
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Dead Dead Dead",
+    "Deadeadead",
+    "Evil theme",
+    "Dead Dead Dead dark",
+    "DDD",
+    "D3"
+  ],
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deadeadead",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deadeadead-color-theme.json"
+      }
+    ]
+  }
+}
